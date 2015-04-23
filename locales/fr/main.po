@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: brol <contact@brol.info>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Add a customized favicon to your blog"
+msgstr "Ajouter un favicon à votre blog"
+
+msgid "To finish installation, please delete the whole cache/cbtpl directory."
+msgstr "Pour finir l'installation, merci de supprimer l'intégralité du dossier cache/cbtpl."
+
+msgid "Enable favicon"
+msgstr "Activer le favicon"
+
+msgid "Favicon URL:"
+msgstr "URL du favicon :"
+
+msgid "Favicon URL for IE:"
+msgstr "URL du favicon pour IE :"
+
+msgid "Please note, IE compatibility works only with \".ico\" format."
+msgstr "Veuillez noter que la compatibilité IE fonctionne uniquement avec le format \".ico\"."

@@ -1,0 +1,28 @@
+v0.8.1 23-04-2015 - Pierre Van Glabeke
+* suppression icône + modif bloc licence
+
+2013-12-30  Pierre Van Glabeke
+* Compatibilité dc2.6
+
+2008-04-21  Oleksandr Syenchuk  <sacha@xn--phnix-csa.net>
+* Show a warning in HTML code if favicon mimetype is bad
+
+2008-04-21  Oleksandr Syenchuk  <sacha@xn--phnix-csa.net>
+* Formating changelog
+* Erase cache directory during installation
+
+2008-04-06  Oleksandr Syenchuk  <sacha@xn--phnix-csa.net>
+* Option "Compatibilité Internet Explorer 6"
+* Oubli d'une traduction : corrigé
+ 
+2008-04-06  Oleksandr Syenchuk  <sacha@xn--phnix-csa.net>
+* Traduction en français
+ 
+2008-04-05  Oleksandr Syenchuk  <sacha@xn--phnix-csa.net>
+* Un formulaire de configuration dans les préférences du blog est disponible
+ 
+2008-04-05  Oleksandr Syenchuk  <sacha@xn--phnix-csa.net>
+* La détection du type d'icône se fait automatiquement
+ 
+2008-04-05  Oleksandr Syenchuk  <sacha@xn--phnix-csa.net>
+* Première version paramètrable dans about:config
